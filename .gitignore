@@ -1,0 +1,10 @@
+/*
+.vs
+!.gitignore
+/campaigns
+/docs
+/text
+/UI
+/DB
+!archive/
+![0-9]*
